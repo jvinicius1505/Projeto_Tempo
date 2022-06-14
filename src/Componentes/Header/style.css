@@ -1,0 +1,19 @@
+header {
+    background-color: rgb(30, 105, 190);
+    background-image: url(../../../public/icons/header.png);
+    background-size: 30%;
+    background-position: center top;
+    background-attachment: fixed;
+    text-align: center;
+    padding: 1vh;
+}
+
+header > h1{
+    margin: 2.5vh auto;
+    margin-bottom: -1vh;
+    padding-top: 1.5vh;
+    width: fit-content;
+    height: 10vh;
+    text-align: center;
+    background-color: rgb(30, 105, 190);
+}

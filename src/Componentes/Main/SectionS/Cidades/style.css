@@ -1,0 +1,24 @@
+.boxCidades{
+    width: 40vw;
+    height: max-content;
+    border: none;
+    padding: 5vh 0;    
+    box-shadow: -5px 5px black;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2vh;
+    justify-content: center;
+    margin: 5vh auto;
+    background-color: #F0E265;
+}
+
+.cidade{
+    border: 1px solid;
+    width: 10vw;
+    text-align: center;
+    font-size: 1.15em;
+}
+
+.cidade:hover{
+    background-color: #62AEBD;
+}

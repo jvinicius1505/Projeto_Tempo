@@ -1,0 +1,8 @@
+.boxDesc{
+    border: 1px solid;
+    width: 20vw;
+    margin: 0 auto;
+    text-align: center;
+    border: 1px solid rgb(194, 194, 194);
+    border-radius: 20%;
+}

@@ -1,0 +1,30 @@
+.boxInput{
+    margin: 0 auto;
+    display: flex;
+    width: 20vw;
+    height: 3vh;
+    padding: 1.5vh;
+    text-align: center;
+}
+
+.pesquisa{
+    width: 20vw;
+    border: none;
+    border-bottom: 1px solid;
+}
+
+.pesquisa:focus {
+    box-shadow: 0 0 0 0;
+    outline: 0;
+}
+
+.botao{
+    background-color: white;
+    background: url("https://i.pinimg.com/originals/95/56/f9/9556f902c9acfa20cea3b161fb9d45ee.png");
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 3vw;
+    height: 5vh;
+    margin-top: -2vh;
+}
