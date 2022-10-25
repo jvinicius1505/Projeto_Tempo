@@ -1,10 +1,10 @@
-
-
+# Projeto de Tempo(em tempo real)
+Esse projeto foi feito com React e usando uma API 
 ![gif](https://j.gifs.com/ywyXNg.gif)
 
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
